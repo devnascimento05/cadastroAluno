@@ -1,0 +1,22 @@
+html{
+    background-color: aliceblue;
+}
+
+table{
+width: 510px;
+border: 1px solid red;
+}
+
+td{
+    height: 30px;
+    font-family: Verdana;
+   
+}
+
+.cabecalho{
+    text-align: center;
+    background-color: rgb(7, 47, 87);
+    color: rgb(228, 213, 208);
+
+}
+
